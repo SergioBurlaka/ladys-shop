@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ladys-shop/static/css/main.5f361e03.chunk.css",
+    "main.js": "/ladys-shop/static/js/main.5c641642.chunk.js",
+    "main.js.map": "/ladys-shop/static/js/main.5c641642.chunk.js.map",
+    "runtime-main.js": "/ladys-shop/static/js/runtime-main.378e0c89.js",
+    "runtime-main.js.map": "/ladys-shop/static/js/runtime-main.378e0c89.js.map",
+    "static/js/2.d35f0429.chunk.js": "/ladys-shop/static/js/2.d35f0429.chunk.js",
+    "static/js/2.d35f0429.chunk.js.map": "/ladys-shop/static/js/2.d35f0429.chunk.js.map",
+    "index.html": "/ladys-shop/index.html",
+    "precache-manifest.7eaf329258bafb2af4db4b1ea704fa80.js": "/ladys-shop/precache-manifest.7eaf329258bafb2af4db4b1ea704fa80.js",
+    "service-worker.js": "/ladys-shop/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/ladys-shop/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.d35f0429.chunk.js.LICENSE.txt": "/ladys-shop/static/js/2.d35f0429.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.378e0c89.js",
+    "static/js/2.d35f0429.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.5c641642.chunk.js"
+  ]
+}
