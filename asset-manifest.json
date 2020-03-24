@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/ladys-shop/static/css/main.59b2bb9a.chunk.css",
-    "main.js": "/ladys-shop/static/js/main.412a9878.chunk.js",
-    "main.js.map": "/ladys-shop/static/js/main.412a9878.chunk.js.map",
+    "main.css": "/ladys-shop/static/css/main.fbdd41fd.chunk.css",
+    "main.js": "/ladys-shop/static/js/main.4cb0a39a.chunk.js",
+    "main.js.map": "/ladys-shop/static/js/main.4cb0a39a.chunk.js.map",
     "runtime-main.js": "/ladys-shop/static/js/runtime-main.378e0c89.js",
     "runtime-main.js.map": "/ladys-shop/static/js/runtime-main.378e0c89.js.map",
     "static/js/2.da760fbd.chunk.js": "/ladys-shop/static/js/2.da760fbd.chunk.js",
     "static/js/2.da760fbd.chunk.js.map": "/ladys-shop/static/js/2.da760fbd.chunk.js.map",
     "index.html": "/ladys-shop/index.html",
-    "precache-manifest.435cb5f2672cce6e7afc782b227093f3.js": "/ladys-shop/precache-manifest.435cb5f2672cce6e7afc782b227093f3.js",
+    "precache-manifest.f4f9911fede17fa8b2779a8212c9e03e.js": "/ladys-shop/precache-manifest.f4f9911fede17fa8b2779a8212c9e03e.js",
     "service-worker.js": "/ladys-shop/service-worker.js",
-    "static/css/main.59b2bb9a.chunk.css.map": "/ladys-shop/static/css/main.59b2bb9a.chunk.css.map",
+    "static/css/main.fbdd41fd.chunk.css.map": "/ladys-shop/static/css/main.fbdd41fd.chunk.css.map",
     "static/js/2.da760fbd.chunk.js.LICENSE.txt": "/ladys-shop/static/js/2.da760fbd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.378e0c89.js",
     "static/js/2.da760fbd.chunk.js",
-    "static/css/main.59b2bb9a.chunk.css",
-    "static/js/main.412a9878.chunk.js"
+    "static/css/main.fbdd41fd.chunk.css",
+    "static/js/main.4cb0a39a.chunk.js"
   ]
 }
